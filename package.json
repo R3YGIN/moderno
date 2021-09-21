@@ -9,7 +9,7 @@
   "author": "George Gerus",
   "license": "ISC",
   "devDependencies": {
-    "@fancyapps/ui": "^4.0.4",
+    "@fancyapps/fancybox": "^3.5.7",
     "browser-sync": "^2.27.5",
     "gulp": "^4.0.2",
     "gulp-autoprefixer": "^8.0.0",
